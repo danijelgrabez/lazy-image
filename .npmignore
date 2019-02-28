@@ -1,0 +1,13 @@
+/coverage
+node_modules/
+src/
+documentation/
+.circleci/
+yarn.lock
+package-lock.json
+*.log
+.idea
+.DS_Store
+.cache
+.babelrc
+.eslintrc

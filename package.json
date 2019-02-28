@@ -1,0 +1,22 @@
+{
+  "name": "lazy-image",
+  "version": "1.0.0",
+  "description": "Animated lazy loading image component for React Native",
+  "main": "index.js",
+  "dependencies": {
+    "prop-types": "^15.6.2"
+  },
+  "devDependencies": {
+    "babel-preset-react-native": "^4.0.1",
+    "react": "^16.4.1",
+    "react-native": "^0.58"
+  },
+  "keywords": [
+    "react-native",
+    "progressive-enhancement",
+    "lazy-loading"
+  ],
+  "author": "Danijel Grabez <danijel.grabez@gmail.com> (https://www.danijelgrabez.com)",
+  "repository": "https://github.com/danijelgrabez/lazy-image",
+  "license": "MIT"
+}
