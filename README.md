@@ -4,6 +4,13 @@
 React Native image component with animated lazy loading.
 Demo 👉[Expo Snack](https://snack.expo.io/@danijelgrabez/bGF6eS).
 
+### Install
+```npm i animated-lazy-image -S```
+
+or,
+
+```yarn add animated-lazy-image```
+
 ### Usage
 #### Props:
 1. `source` - Image source
@@ -11,7 +18,7 @@ Demo 👉[Expo Snack](https://snack.expo.io/@danijelgrabez/bGF6eS).
 3. `customPlaceholder` - Custom placeholder component
 
 ```js
-  const CUSTOM_PLACEHOLDER = require('./assets/customPlaceholder.png');
+import LazyImage from 'animated-lazy-image';
 
   /**
    * Base example

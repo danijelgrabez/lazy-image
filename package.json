@@ -1,6 +1,6 @@
 {
-  "name": "lazy-image",
-  "version": "1.0.0",
+  "name": "animated-lazy-image",
+  "version": "1.0.1",
   "description": "Animated lazy loading image component for React Native",
   "main": "index.js",
   "dependencies": {
